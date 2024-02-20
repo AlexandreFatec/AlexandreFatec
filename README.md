@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlexandreFatec
+- 👋 Olá, eu sou o @AlexandreFatec
 - Estudante da Fatec do primeiro semestre de desenvolvimento de software
 - Ansioso para poder aprender e contribuir 
 
