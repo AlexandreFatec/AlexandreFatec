@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou o @AlexandreFatec
-- Estudante da Fatec do primeiro semestre de desenvolvimento de software
+- Estudante do curso Desenvolvimento de Software da Fatec Jessen Vidal - São José dos Campos
 - Ansioso para poder aprender e contribuir 
 
 <!---
